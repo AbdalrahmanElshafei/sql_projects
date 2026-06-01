@@ -27,7 +27,7 @@ The dataset consists of 3 main tables:
 
 📊 Result:
 
-![01](Screenshots/01_database_tables.png)
+![01](Screenshots/01_database_tables.png.png)
 
 ---
 
