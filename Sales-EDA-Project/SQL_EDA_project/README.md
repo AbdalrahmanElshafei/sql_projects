@@ -24,7 +24,6 @@ The dataset consists of 3 main tables:
 # 🔍 Database Exploration
 
 ### Q1: What tables exist in the database?
-```sql
 SELECT * FROM INFORMATION_SCHEMA.TABLES;
 📊 Result:
 
