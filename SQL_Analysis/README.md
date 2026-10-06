@@ -439,4 +439,4 @@ This project demonstrates the ability to:
 ## Conclusion
 
 This project combines SQL analysis, Excel visualization, and business reporting to transform raw sales and customer data into actionable insights.
-ي
+
